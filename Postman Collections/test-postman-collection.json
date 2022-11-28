@@ -1,0 +1,22 @@
+{
+	"info": {
+		"_postman_id": "da9248d2-4a4d-47ad-adb1-d5479a6cb241",
+		"name": "Test Postman Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test GET",
+			"_postman_id": "5cd06310-f00a-4ee0-9328-dc7e25ae4c17",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:5000"
+			},
+			"response": []
+		}
+	]
+}
