@@ -17,6 +17,18 @@
 				"url": "http://localhost:5000"
 			},
 			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "865d21d6-535f-4c80-8ea9-72dff7efbd41",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
