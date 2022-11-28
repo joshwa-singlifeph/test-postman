@@ -14,7 +14,7 @@
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://localhost:5004"
+				"url": "http://localhost"
 			},
 			"response": []
 		}
