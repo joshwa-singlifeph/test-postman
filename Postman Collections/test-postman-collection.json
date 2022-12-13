@@ -7,14 +7,14 @@
 	"item": [
 		{
 			"name": "Test GET",
-			"_postman_id": "5cd06310-f00a-4ee0-9328-dc7e25ae4c17",
+			"id": "5cd06310-f00a-4ee0-9328-dc7e25ae4c17",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
 			"request": {
 				"method": "GET",
 				"header": [],
-				"url": "http://localhost:5000"
+				"url": "http://localhost:5000/api"
 			},
 			"response": []
 		}
